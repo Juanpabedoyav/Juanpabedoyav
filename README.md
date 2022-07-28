@@ -6,4 +6,3 @@ https://juanpabedoyav.netlify.app/
 
 ### Must Popular Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stats&show_icons=true)  
