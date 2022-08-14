@@ -3,6 +3,7 @@
 
 🌱 I’m currently learning skills for fullstack software developer
 
+### React Js ### Javascript ### PHP ###Styled componets ###SQL 
 https://juanpabedoyav.netlify.app/
 
 ### Must Popular Projects
