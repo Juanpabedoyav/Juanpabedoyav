@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning skills for fullstack software developer
 
-- React Js · Javascript ·CSS ·HTML · PHP · SQL
+- React Js \ - Javascript \ - CSS \ - HTML \  - PHP \ - SQL
 https://juanpabedoyav.netlify.app/
 
 ### Must Popular Projects
