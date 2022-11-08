@@ -7,6 +7,7 @@
 https://juanpabedoyav.netlify.app/
 
 ### Must Popular Projects
- - 🌮 [CV App (Build your CV)](https://github.com/Juanpabedoyav/Cv-App)
- - 📲
- - 🧑🏻‍🤝‍🧑🏻
+ - 📲 [Ecommerce (Buy your outfit)](https://github.com/Juanpabedoyav/Cv-App)
+ - 🧑🏻‍🤝‍🧑🏻 [Budget App (Manage your budget)](https://github.com/Juanpabedoyav/budget-app)
+ - 🌮 [CV App (Build your CV)](https://github.com/Juanpabedoyav/ecommerce-Next-JS)
+ - 😎 [Amazonas Clone](https://github.com/Juanpabedoyav/sprint3)
