@@ -4,7 +4,7 @@
 🌱 I’m currently learning skills for fullstack software developer
 
 - React Js \ - Javascript \ - CSS \ - HTML \  - PHP \ - SQL
-https://juanpabedoyav.netlify.app/
+https://juanpabedoyav.com/
 
 ### Must Popular Projects
  - 🌮 [CV App (Build your CV)](https://github.com/Juanpabedoyav/Cv-App)
