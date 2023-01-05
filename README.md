@@ -8,6 +8,6 @@ https://juanpabedoyav.com/
 
 ### Must Popular Projects
  - 🌮 [CV App (Build your CV)](https://github.com/Juanpabedoyav/Cv-App)
- - 🗺️ [MapApp (Where areyou ?)](https://github.com/Juanpabedoyav/MapsApp)
+ - 🗺️ [MapApp (Where are you ?)](https://github.com/Juanpabedoyav/MapsApp)
  - 😎 [Amazonas Clone](https://github.com/Juanpabedoyav/sprint3)
  - 🏦 [Cooperativa](http://www.seficoop.com/)
