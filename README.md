@@ -10,4 +10,5 @@ https://juanpabedoyav.com/
  - 🌮 [CV App (Build your CV)](https://github.com/Juanpabedoyav/Cv-App)
  - 🗺️ [MapApp (Where are you ?)](https://github.com/Juanpabedoyav/MapsApp)
  - 😎 [Amazonas Clone](https://github.com/Juanpabedoyav/sprint3)
+ - 👩‍🍳 [Recipe App](https://github.com/juanpabedoyav/recipeapp)
  - 🏦 [Cooperativa](http://www.seficoop.com/)
