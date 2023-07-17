@@ -4,7 +4,7 @@
 ![Image text](https://github.com/Juanpabedoyav/portafolio/blob/main/github1.png)
 🌱 I’m currently learning skills for fullstack software developer
 
-React Js | Typescript | Javascript | CSS | HTML | PHP |  SQL
+React Js | Next JS | Typescript | Javascript |  PHP |  SQL
 https://juanpabedoyav.com/
 
 ### Must Popular Projects
