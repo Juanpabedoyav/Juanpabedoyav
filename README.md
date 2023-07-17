@@ -1,7 +1,7 @@
 ### Hi there 👍
 
 🙋 I’m Juan Pa Bedoya, I’m from Colombia and I want to build the future together
-![Image text](https://github.com/Juanpabedoyav/portafolio/blob/main/github.png)
+![Image text](https://github.com/Juanpabedoyav/portafolio/blob/main/github1.png)
 🌱 I’m currently learning skills for fullstack software developer
 
 React Js | Typescript | Javascript | CSS | HTML | PHP |  SQL
