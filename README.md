@@ -19,7 +19,10 @@
 🙋 I’m Juan Pa Bedoya, a Software Engineer with a huge love for React.js, Next Js, TypeScript, Node Js, Everything API, MongoDB, TailwindCSS, and System Architecture.
 
 ![Image text](https://github.com/Juanpabedoyav/portafolio/blob/main/github1.png)
-
+ 
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities (remote)
+- 💬 Ask me about React.js, Next.js, Node Js, PHP, JavaScript, and API development.
 
 ### Must Popular Projects
  - 🌮 [CV App (Build your CV)](https://github.com/Juanpabedoyav/Cv-App)
@@ -27,13 +30,6 @@
  - 😎 [Amazonas Clone](https://github.com/Juanpabedoyav/sprint3)
  - 👩‍🍳 [Recipe App](https://github.com/juanpabedoyav/recipeapp)
  - 🏦 [Cooperativa](http://www.seficoop.com/)
-
-
-  
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 👯 I’m currently open for work and employment opportunities (remote)
-- 💬 Ask me about React.js, Next.js, Node Js, PHP, JavaScript, and API development.
-
 
 ### Where to find me
 
