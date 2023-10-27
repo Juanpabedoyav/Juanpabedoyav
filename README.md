@@ -17,7 +17,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 
-🙋 I’m Juan Pa Bedoya, a Software Engineer with a huge love for React.js, Next Js, TypeScript, Node Js, Everything API, MongoDB, TailwindCSS, and System Architecture.
+🙋 I’m Juan Pablo Bedoya, a Software Engineer with a huge love for React.js, Next Js, TypeScript, Node Js, Everything API, MongoDB, TailwindCSS, and System Architecture.
 
 ![Image text](https://github.com/Juanpabedoyav/portafolio/blob/main/github1.png)
  
