@@ -1,5 +1,6 @@
 # Hey! Nice to see you.
-
+![Flutter](https://img.shields.io/badge/flutter-005C84?style=flat-square&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/swift-005C84?style=flat-square&logo=swift&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=square&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -8,6 +9,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
 
 
 🙋 I’m Juan Pablo Bedoya, a Software Engineer with a huge love for React.js, Next Js, TypeScript, Node Js, Everything API, MongoDB, TailwindCSS, and System Architecture.
